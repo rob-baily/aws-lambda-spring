@@ -1,0 +1,4 @@
+This project demonstrates how you can use Spring Boot correctly in an AWS Lambda handler
+ if you are so inclined to do so.
+
+ Came about while looking at http://stackoverflow.com/questions/36081908/using-spring-boot-cloud-with-amazon-aws-lambda-does-not-inject-values
